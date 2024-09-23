@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195777858022",
+    "project_id": "boibazaar-38429",
+    "storage_bucket": "boibazaar-38429.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195777858022:android:7d0c7b632096513e086e27",
+        "android_client_info": {
+          "package_name": "com.example.boibazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABECKGtATj5hAbTNQGOhreKyTwqpqt7aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195777858022:android:a2dd3901667ddd37086e27",
+        "android_client_info": {
+          "package_name": "com.example.bookshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABECKGtATj5hAbTNQGOhreKyTwqpqt7aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
